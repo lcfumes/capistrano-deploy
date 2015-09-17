@@ -1,3 +1,5 @@
+[![Build Status](https://scrutinizer-ci.com/g/lcfumes/capistrano-deploy/badges/build.png?b=master)](https://scrutinizer-ci.com/g/lcfumes/capistrano-deploy/build-status/master)
+
 # capistrano-deploy #
 
 ## You must add your public key in webservers ##
